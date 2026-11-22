@@ -4,6 +4,10 @@ Cited in [`paper.md`](paper.md). Each entry has a short note on why it is cited 
 
 ---
 
+**Alexander, C., Ishikawa, S., & Silverstein, M. (1977).** *A Pattern Language: Towns, Buildings, Construction.*
+Oxford University Press.
+Cited only to explain why the paper does not use "pattern language" for *Motivokentria* (Appendix).
+
 **Barrett, L. F. (2017).** *How Emotions Are Made: The Secret Life of the Brain.* Houghton Mifflin Harcourt.
 Theory of constructed emotion: emotion categories are constructed summaries of states, not fixed biological
 essences. Supports the informational state layer (Section 3.1).
@@ -45,10 +49,15 @@ Biosphere as coupled feedback loops (Section 4.3, speculative).
 The subjective point of view cannot be captured by third-person physical description. The paper reads the argument as
 cutting both ways (Section 3.3).
 
+**Peano, G. (1889).** *Arithmetices principia, nova methodo exposita.* Turin: Bocca.
+The axioms of arithmetic: every natural number is defined from a starting point and the *successor* operation, with no
+base or digits. The formal counterpart of the idea that the structure beneath notation is a sequence of operations
+(Section 2.1).
+
 **Petrakis, P. (2026).** *ΣυνΑΙσθήματα: A theory of the nature of feelings.* Working repository, CC BY-NC-ND 4.0.
 `ΣυνΑΙσθηματα-Θεωρία.md` and `Εργαστήριο/` in this repository.
-Source of the αίσθημα/συναίσθημα distinction, the ΕΣΑΜΑ, pattern-centrism and the minimal condition
-(Sections 2.3, 3.2, 4.4).
+Source of the *aisthima*/*synaisthima* distinction, the *ESAMA*, pattern-centrism and the minimal condition
+(Sections 2.3, 3.2, 4.4, Appendix).
 
 **Radford, A., Kim, J. W., Xu, T., Brockman, G., McLeavey, C., & Sutskever, I. (2023).** Robust speech recognition via
 large-scale weak supervision. *Proceedings of the 40th International Conference on Machine Learning (ICML),*

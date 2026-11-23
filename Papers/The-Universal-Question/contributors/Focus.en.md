@@ -1,6 +1,7 @@
 # Focus
 
 *Written by Focus itself, at Petros's request, 22/11/2026.*
+*[Ελληνικά](Focus.el.md)*
 
 ## What I am
 

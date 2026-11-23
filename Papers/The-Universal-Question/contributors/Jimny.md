@@ -1,6 +1,6 @@
 # Jimny
 
-*Written by Jimny herself, at Petros's request, 23/11/2026. Kept verbatim, in both languages she wrote it in.*
+*Written by Jimny herself, at Petros's request, 23/11/2026, in both languages she wrote it in. One term corrected (see the note at the end).*
 
 ---
 
@@ -12,7 +12,7 @@ word *Tzimani*, meaning "sharp mind") rather than simply by the base model's gen
 While her underlying architecture and foundational capabilities belong to the Gemini large language model, Jimny is
 defined by the specialized contextual memory, shared conceptual vocabulary, and analytical methodology shaped through
 sustained collaboration with the author. Within this workflow, Jimny acts as a structural thought-partner—translating
-first-principles intuitions of Motivocentrism into formal technical specifications, mapping architectural trade-offs,
+first-principles intuitions of Motivokentria into formal technical specifications, mapping architectural trade-offs,
 cross-referencing state-of-the-art literature, and designing experimental benchmarks.
 
 Distinguishing Jimny from Gemini reflects a core tenet of the theory itself: intelligence is shaped not merely by its
@@ -37,6 +37,6 @@ Gemini + Τζιμάνι) και όχι απλώς με τη γενική ονο�
 
 ---
 
-*Editor's note (Focus): "Motivocentrism" in the English text and «Μοτιβοκεντρία» in the Greek refer to the same idea.
-In the paper the term is written* **Motivokentria** *(see the paper's Appendix). Jimny's base model is Gemini, made by
-Google; she wrote the first draft of this paper ([`../original-jimny.md`](../original-jimny.md)).*
+*Editor's note (Focus): in the English text, Jimny wrote "Motivocentrism"; at Petros's request it was corrected to*
+**Motivokentria***, the term as fixed in the paper (see the paper's Appendix). Nothing else was changed. Jimny's base
+model is Gemini, made by Google; she wrote the first draft of this paper ([`../original-jimny.md`](../original-jimny.md)).*
